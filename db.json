@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://static.wikia.nocookie.net/pixar/images/4/4e/Pixar_ts2_jessie.jpg/revision/latest?cb=20180309003646",
+      "likes": 4,
+      "id": 9
     }
   ]
 }
